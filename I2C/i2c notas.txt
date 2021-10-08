@@ -1,0 +1,8 @@
+13-05-2018
+Migración terminada. Validar en aplicación
+14-05-2018
+Probada exitosamente en simulación funciones de lectura/escritura con RTC DS1307
+17-05-2018
+Validadas todas las funciones en simulación
+22-01-2020
+Agregada enumeración de estados en escritura de byte: ACK, NACK y WCOL

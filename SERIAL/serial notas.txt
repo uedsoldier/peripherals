@@ -1,0 +1,24 @@
+08-10-2017:
+Funciones validadas completamente. Falta probar funcionalidad RS485
+04-03-2018: 
+Comienza migración universal para todos los micros de 8 bits.
+12-03-2018
+Migración temirnada. Validar. Funcionalidad RS485 quedará pendiente.
+09-04-2018
+Se agregaron funciones para transmisión de enteros de 24 bits.
+29-04-2018 
+Se agregaron funciones de lectura de datos de 16,24,32 bits así como flotantes.
+14-05-2018
+Se probó librería migrada transmitiendo datos adecuadamente.
+17-05-2018
+Validadas todas las funciones, con excepción de baudcontrol
+21-07-2018
+Se modificaron funciones readByteBuffer y Peek para que devuelvan -1 si el buffer está vacío.
+10-08-2018
+Se modificó función serial_init para incluir offset de calibración para baud rate.
+20-02-2019
+Se agregó función para verificar último dato recibido lastReceived(), y se modificó serial_peek() para ser ahora firstReceived()
+31-12-2019
+Se modificaron archivos .c y .h para obtener documentación al estilo javadoc
+02-01-2020
+Se agregaron funciones write y read para envío y recepción de cualquier tipo de dato. Pendientes de validar aún.

@@ -1,0 +1,6 @@
+26-08-2018
+Validación de lectura de registros individuales completa en simulación. Falta lectura y escritura en bloques.
+22-10-2019
+Lectura y escritura de bloques completas, falta simulación. Se agregó nueva estructura de documentación al inicio de funciones, para que MPLABX arroje la documentación de cada función.
+05-03-2020
+Se modificaron archivos .c y .h para obtener documentación al estilo javadoc

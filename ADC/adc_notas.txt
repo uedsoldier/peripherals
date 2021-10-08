@@ -1,0 +1,4 @@
+06-05-2018
+Migración completa. Pendiente validación en simulación.
+27-05-2018
+Validación en simulación correcta. Inicialización, lectura y cambio de canal.

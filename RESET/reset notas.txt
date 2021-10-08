@@ -1,0 +1,4 @@
+13-05-2018
+Creación finalizada. Falta probar en simulación/aplicación real.
+10-08-2018
+Prueba correcta en simulación de POR y MCLR

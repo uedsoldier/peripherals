@@ -1,0 +1,13 @@
+04-03-2018
+Migración completa.Falta probar funciones y definiciones en aplicación 
+real/simulación.
+01-06-2018
+Agregadas macros para Gate control y selección de fuente de reloj para módulos CCP. Sigue pendiente validación.
+21-08-2018
+Modificada función de selección de fuente de reloj CCP y validada en simulación.
+22-09-18
+Agregada fucnión para generación de timeout mediante timer0
+2-09-19
+Agregadas funciones para conocer tiempo trasncurrido en caso de no ocurrir timeout
+09-01-2019
+Se modificaron archivos .c y .h para obtener documentación al estilo javadoc

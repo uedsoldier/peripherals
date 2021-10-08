@@ -1,0 +1,6 @@
+29-04-2018
+Migración terminada. Validar en aplicación
+21-05-2018
+Validadas funciones en simulación. Falta integrar a algún periférico como TLC5940
+2-09-2019
+Modificación a funciones de escritura y de xmit usando bit BF (Buffer Full)

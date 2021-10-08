@@ -1,0 +1,8 @@
+08-10-2017
+Validadas funciones de lectura/escritura de bits individuales, bytes, enteros de 16 y 32 bits, y números flotantes.
+12-03-2017
+Migración a formato universal completa
+13-05-2018
+Se agregaron funciones de lectura/escritura de datos de 24 bits
+27-05-2018
+Funcionamiento validado en simulación, para nuevo formato migrado

@@ -1,0 +1,8 @@
+12-06-2018
+Migración de módulo PWM1 completa y funcionando en simulación al menos para un microcontrolador PIC18F4550.
+30-06-2018
+Migración completa. Pendiente validación para PWM2..10
+02-03-2019
+Se agregó lectura de memoria flash en PWM1
+03-03-2019
+Agregadas funciones para todos los módulos PWM (1,2,3,4,5,6,7,8,9 y 10) y EPWM (1,2,3). Se agregaron pines correspondientes en pwm.h y se validaron todos los módulos en un PIC18F87K22, el cual posee todos los módulos posibles (3xEPWM + 10xPWM), incluyendo pines multiplexados por FUSES.

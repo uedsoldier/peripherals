@@ -1,0 +1,6 @@
+21-08-2018
+Validación correcta de comparación en simulación. Queda pendiente implementación de lectura de fuses (flash) para configurar pines CCP según CCPMUX.
+03-03-2019
+La actividad de lectura de fuses (flash) para configurar pines CCP según CCPMUX quedó lista!
+05-03-2020
+Se modificaron archivos .c y .h para obtener documentación al estilo javadoc
